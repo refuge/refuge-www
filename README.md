@@ -13,6 +13,8 @@ If you want to see the site into a quick server, use `nanoc view` and it will op
 on localhost. This is only opening a web server: you still need to execute `nanoc` each time
 you modify anything (recompiling) to see the changes.
 
+See <http://nanoc.ws/docs/> for more information.
+
 ## How to deploy
 
 TBD
